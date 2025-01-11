@@ -95,7 +95,8 @@ h1, h2, h3, h4, h5, h6 {
 
 p {
     margin-top: 0;
-    margin-bottom: 1rem
+    margin-bottom: 1rem;
+	color:#2c3e50;
 }
 
 abbr[data-original-title], abbr[title] {
@@ -349,30 +350,37 @@ template {
     font-family: vazir;
     font-weight: 700;
     line-height: 1.2
+	color:#2c3e50;
 }
 
 .h1, h1 {
-    font-size: 2.5rem
+    font-size: 2rem;
+	color:#2c3e50;
 }
 
 .h2, h2 {
-    font-size: 2rem
+       font-size: 1.5rem;
+	color:#2c3e50;
 }
 
 .h3, h3 {
-    font-size: 1.75rem
+    font-size: 1.25rem;
+	color:#2c3e50;
 }
 
 .h4, h4 {
-    font-size: 1.5rem
+    font-size: 1rem;
+	color:#2c3e50;
 }
 
 .h5, h5 {
-    font-size: 1.25rem
+    font-size: 1rem;
+	color:#2c3e50;
 }
 
 .h6, h6 {
-    font-size: 1rem
+    font-size: 1rem;
+	color:#2c3e50;
 }
 
 .lead {
@@ -6871,7 +6879,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-    background-color: #1abc9c !important
+    background-color: #17202a !important
 }
 
 a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-primary:hover {
@@ -10862,8 +10870,8 @@ a.text-dark:focus, a.text-dark:hover {
 }
 
 .masthead .masthead-heading {
-    font-size: 2.75rem;
-    line-height: 2.75rem
+    font-size: 2.1rem;
+    line-height: 3rem
 }
 
 .masthead .masthead-subheading {

@@ -8574,7 +8574,8 @@ a.bg-dark:focus, a.bg-dark:hover, button.bg-dark:focus, button.bg-dark:hover {
 }
 
 .mb-0, .my-0 {
-    margin-bottom: 0 !important
+    margin-bottom: 0 !important;
+	color:#fff;
 }
 
 .ml-0, .mx-0 {
